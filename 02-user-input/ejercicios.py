@@ -1,0 +1,28 @@
+# =============================================
+# 👇 EJERCICIO 1 (hazlo tú)
+# Crea variables pidiendo al usuario:
+# - Tu animal favorito
+# - Tu color favorito
+# - Tu videojuego o serie favorita
+#
+# Luego imprime una frase como:
+# "Me encanta el animal ____, mi color favorito es ____ y mi serie favorita es ____"
+# Usa f-strings ✅
+
+
+# =============================================
+# 👇 EJERCICIO 2 (hazlo tú)
+# Pide:
+# - Nombre de una película
+# - Año de estreno
+# - Actor o actriz principal
+#
+# Imprime algo como:
+# "La película ____ se estrenó en ____ y el protagonista es ____"
+# Usa input() y f-strings ✅
+
+
+# =============================================
+# 🎯 NOTA
+# Aún NO convertimos texto a número. Eso viene en el siguiente video:
+# 👉 Type Casting
